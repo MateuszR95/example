@@ -1,0 +1,2 @@
+/.idea   //dodanie wszystkich plików z folderu idea do gitignore
+*.iml //ignorowanie wszystkich plików z rozszerzeniem iml
